@@ -11,8 +11,8 @@ Soporta **ReadTheDocs · Sphinx · GitBook · MkDocs · Docusaurus** y cualquier
 
 ```bash
 # 1. Clonar e instalar (crea .venv automáticamente)
-git clone https://github.com/tu-usuario/bookfromdocs
-cd bookfromdocs
+git clone https://github.com/josetdiazv/docs2book
+cd docs2book
 make install
 
 # 2. Solo si usas --js (sitios que renderizan con JavaScript)
@@ -181,7 +181,7 @@ es.addEventListener('done', () => {
 ## 🏗️ Estructura del proyecto
 
 ```
-bookfromdocs/
+docs2book/
 ├── scraper.py        ← motor: detección, scraping, imágenes, PDF, resume
 ├── cli.py            ← interfaz de línea de comandos
 ├── api.py            ← servidor FastAPI con jobs, SSE y descarga ZIP
@@ -208,6 +208,6 @@ bookfromdocs/
 
 ## 📄 Licencia
 
-MIT — úsalo, modifícalo, véndelo.
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — Libre para uso personal y educativo. Uso comercial no permitido. Se requiere atribución.
 
-> Proyecto: [doc2book.diaz.com.ve](https://bookfromdocs.com)
+> Proyecto: [docs2book.diaz.com.ve](https://docs2book.diaz.com.ve) · Powered by [@josetdiazv](https://github.com/josetdiazv)
