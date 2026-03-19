@@ -170,6 +170,6 @@ bookfromdocs/
 
 ## 📄 Licencia
 
-MIT — úsalo, modifícalo, véndelo. 
+MIT
 
-> Proyecto: [bookfromdocs.com](https://bookfromdocs.com)
+> Proyecto: [doc2book.diaz.com.ve](https://bookfromdocs.com)
